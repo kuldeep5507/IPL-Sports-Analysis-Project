@@ -26,6 +26,8 @@
 
 To Know More About the IPL League Visit Official Site
 Link Here : https://en.wikipedia.org/wiki/Indian_Premier_League
+For the Data_Set From There Link_There : https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+
 
 ### (1). Find Player Whose SR is Above 120.
 
@@ -35,7 +37,7 @@ WHERE Runs >= '120'
 ORDER BY Runs DESC;
 
 Link Text :[data-3.csv](https://github.com/user-attachments/files/19721811/data-3.csv)
-For the Data_Set From There Link_There : https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+
 
 ### (2). To Get The Player Hit Maximum Ton Against Each IPL Franchies.
 
