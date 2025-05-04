@@ -12,17 +12,17 @@
 
 ### - IPL League Consists of Ten Teams.
 
-**NO.**|  **TEAM**                        | **City**
- 01    | Chennai Super Kings(CSK)         | Chennai, Tamil Nadu
- 02    | Delhi Capitals(DC)               | New Delhi, Delhi
- 03    | Gujrat Titans(GT)                | Ahmedabad, Gujrat
- 04    | Kolkat Knight Riders(KKR)        | Kolkata, West Bengal
- 05    | Lucknow Super Giants(LSG)        | Lucknow, Uttar Pradesh
- 06    | Mumbai Indians(MI)               | Mumbai, Maharashtra
- 07    | Punjab Kings(PBKS)               | Mullanpur, Mohali, Punjab
- 08    | Rajasthan Royals(RR)             | Jaipur, Rajasthan
- 09    | Sunrisers Hyderabad(SRH)         | Hyderabad, Telangana
- 10    | Royal Challengers Bangaluru(RCB) | Bengaluru, Karnataka 
+**NO.**| **TEAM** | **City**
+(01) | Chennai Super Kings(CSK) | Chennai, Tamil Nadu
+(02) | Delhi Capitals(DC) | New Delhi, Delhi
+(03) | Gujrat Titans(GT) | Ahmedabad, Gujrat
+(04) | Kolkat Knight Riders(KKR) | Kolkata,West Bengal
+(05) | Lucknow Super Giants(LSG) | Lucknow, Uttar Pradesh
+(06) | Mumbai Indians(MI) | Mumbai, Maharashtra
+(07) | Punjab Kings(PBKS) | Mullanpur, Mohali, Punjab
+(08) | Rajasthan Royals(RR) | Jaipur, Rajasthan
+(09) | Sunrisers Hyderabad(SRH) | Hyderabad, Telangana
+(10) | Royal Challengers Bangaluru(RCB) |Bengaluru, Karnataka 
 
 To Know More About the IPL League Visit Official Site
 Link Here : https://en.wikipedia.org/wiki/Indian_Premier_League
@@ -31,10 +31,12 @@ For the Data_Set From There Link_There : https://www.kaggle.com/datasets/patrick
 
 ### (1). Find Player Whose SR is Above 120.
 
-SELECT Player, Runs, BF, Against, Venue, Match_Date
+SELECT Player, Runs, BF, Against, Venue,
+ Match_Date
 FROM Fatest_Centuries
 WHERE Runs >= '120'
 ORDER BY Runs DESC;
+
 
 Link Text :[data-3.csv](https://github.com/user-attachments/files/19721811/data-3.csv)
 
@@ -536,3 +538,4 @@ SELECT Team1
 , Venue
 FROM IPL_Data
 WHERE Toss_Winner = 'Rajasthan Royals' AND (Match_Type = 'Final' AND Winner = 'Rajasthan Royals');
+
