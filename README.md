@@ -5,6 +5,7 @@
 
 ![Image](https://github.com/user-attachments/assets/fe4b1d4c-e259-4f15-ab39-028cae84886e)
 
+
 ❇️ IPL - Indian Premier League
 * IPL is a Professional Twenty20 Cricket League in India organised by the Board of Control for Cricket in India (**BCCI**).
 * Founded in 2007, The League Features ten State or city based Franchies Teams.
@@ -38,15 +39,18 @@
 ### ✅Some of the most famous IPL Players as :
 
  ## 🚹 Virat Kohli 
- ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg)
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg" width="300" height="250">
  
  A prolific batsman and captain, known for his aggressive style and record-breaking performances,
+ 
  especially for Royal Challengers Bangalore.
   
  Kohli is the IPL's highest run-scorer and the only one with more than 8000 runs. 
 
 ## 🚹 MS Dhoni 
-![Image](https://cdn.inc42.com/wp-content/uploads/2023/04/MS-Dhoni-Startups-Cover.png)
+
+ <img src="https://cdn.inc42.com/wp-content/uploads/2023/04/MS-Dhoni-Startups-Cover.png" width="300" height="250">
 
 A legendary captain and wicketkeeper-batsman, he led Chennai Super Kings to multiple IPL 
 titles and is known for his calm demeanor and strategic brilliance.
@@ -54,7 +58,8 @@ titles and is known for his calm demeanor and strategic brilliance.
 He has amassed 5243 runs in 264 matches,having effected close to 200 dismissals behind the stumps
 
 ## 🚹 Rohit Sharma 
-![Image](https://upload.wikimedia.org/wikipedia/commons/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg)
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg" width="300" height="250">
 
 A powerful batsman and captain, he led Mumbai Indians to five IPL titles and is known for his aggressive hitting 
 and game-changing ability. 
@@ -63,14 +68,16 @@ Rohit Sharma, with 6628 runs for Deccan Chargers and Mumbai Indians, has two hun
 but also 17 ducks, the most among the top run-scorers.
 
 ## 🚹 David Warner 
-![Image](https://www.wisden.com/static-assets/images/players/5380.png?v=23.75)
+
+ <img src="https://www.wisden.com/static-assets/images/players/5380.png?v=23.75" width="300" height="250">
 
 An explosive opener and a prolific run-scorer, he has played for multiple franchises, including Sunrisers Hyderabad.
 
 one of the most successful overseas batsmen in the Indian Premier League, scoring over 6,000 runs.
 
 ## 🚹 Jasprit Bumrah
-![Image](https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/11/full/1739266037-7769.jpg?im=FeatureCrop,size=(826,465))
+
+ <img src="https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/11/full/1739266037-7769.jpg?im=FeatureCrop,size=(826,465" width="300" height="250">
 
 A highly skilled fast bowler, known for his yorkers and death-over bowling, he plays for Mumbai Indians. 
 
@@ -79,38 +86,49 @@ Jasprit Bumrah IPL Profile : 142 Matches, 69 Runs, 181Wickets.
 Bumrah was MI's highest wicket-taker in three of their IPL title wins, taking 20 wickets in 2017, 19 in 2019, and 27 in 2020.
 
 ## 🚹 Chris Gayle
-![Image](https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2023/06/Chris-Gayle-7.jpg?size=*:900)
 
-A powerful and aggressive batsman known for his six-hitting prowess, he has played for various franchises and is a fan favorite.
+ <img src="https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2023/06/Chris-Gayle-7.jpg?size=*:900" width="300" height="250">
+
+A powerful and aggressive batsman known for his six-hitting prowess, 
+
+he has played for various franchises and is a fan favorite.
 
 First and only batsman to hit 300 sixes in the IPL with 4965 runs.
 
 
 ## 🚹 Sunil Narine
-![Image](https://documents.iplt20.com/ipl/IPLHeadshot2025/156.png)
 
-A crafty off-spinner and a dangerous batsman in the powerplay, he has played for Kolkata Knight Riders.
+ <img src="https://documents.iplt20.com/ipl/IPLHeadshot2025/156.png" width="300" height="250">
+
+A crafty off-spinner and a dangerous batsman in the powerplay,
+
+he has played for Kolkata Knight Riders.
 
 He took 190 wickets and 4880 runs with an average of 25.68.
 
 ## 🚹 Suresh Raina
-![Image](https://www.pratidintv.com/wp-content/uploads/2025/03/suresh-raina2.jpg)
 
-A highly successful batsman and all-rounder, he was a key player for Chennai Super Kings and holds several IPL records. 
+ <img src="https://www.pratidintv.com/wp-content/uploads/2025/03/suresh-raina2.jpg" width="300" height="250">
+
+A highly successful batsman and all-rounder, 
+
+he was a key player for Chennai Super Kings and holds several IPL records. 
 
 He has scored 5,528 runs, with an average of 32.51 and 25 Wickets.
 
 he holds the record for the most catches in IPL with 109. 
 
 ## 🚹 Andre Russell
-![Image](https://static.toiimg.com/photo/119127559.cms)
 
+ <img src="https://static.toiimg.com/photo/119127559.cms" width="300" height="250">
+ 
 A powerful all-rounder, known for his explosive batting and bowling, he plays for Kolkata Knight Riders.
 
 He has scored 2,651 runs, with an average of 28.51. He has also slammed 12 half-centuries, 223 Sixes and 123 Wickets.
 
 ## 🚹 KL Rahul
-![Image](https://documents.iplt20.com/ipl/IPLHeadshot2025/19.png)
+
+ <img src="https://documents.iplt20.com/ipl/IPLHeadshot2025/19.png" width="300" height="250">
 
 A talented batsman and captain, he is a crucial member of the Indian squad and has performed well in the IPL.
 
