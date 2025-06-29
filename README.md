@@ -77,7 +77,7 @@ one of the most successful overseas batsmen in the Indian Premier League, scorin
 
 ## 🚹 Jasprit Bumrah
 
- <img src="https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/11/full/1739266037-7769.jpg?im=FeatureCrop,size=(826,465" width="300" height="250">
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bcci.tv%2Fdomestic%2Fmen%2Fplayers%2Fjasprit-bumrah%2F9&psig=AOvVaw20XU9AOzZbrDsDaYGgE5ZC&ust=1751287903595000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiiyoPWlo4DFQAAAAAdAAAAABAE,size=(826,465" width="300" height="250">
 
 A highly skilled fast bowler, known for his yorkers and death-over bowling, he plays for Mumbai Indians. 
 
