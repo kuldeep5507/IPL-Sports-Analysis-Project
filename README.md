@@ -445,19 +445,16 @@ ORDER BY Runs DESC;
 
 ### 🐦‍🔥(17). Bowler Who Conceded Most Runs With Most Dot Ball in IPL Since 2008 to 2022.
 
-SELECT Most_Run_Conceded_Per_Inn.Player
-, Most_Run_Conceded_Per_Inn.Runs
-, Most_Dot_Balls_Inning.Dots
-, Most_Dot_Balls_Inning.Against
-, Most_Dot_Balls_Inning.Venue
-, Most_Dot_Balls_Inning.Match_Date
-FROM Most_Dot_Balls_Inning
+SELECT Most_Run_Conceded_Per_Inn.Player   
+, Most_Run_Conceded_Per_Inn.Runs     
+, Most_Dot_Balls_Inning.Dots   
+, Most_Dot_Balls_Inning.Against    
+, Most_Dot_Balls_Inning.Venue    
+, Most_Dot_Balls_Inning.Match_Date     
+FROM Most_Dot_Balls_Inning    
 INNER JOIN Most_Run_Conceded_Per_Inn
-ON Most_Run_Conceded_Per_Inn.Player = Most_Dot_Balls_Inning.Player
+ON Most_Run_Conceded_Per_Inn.Player = Most_Dot_Balls_Inning.Player     
 WHERE Most_Run_Conceded_Per_Inn.Runs = (SELECT MAX(Most_Run_Conceded_Per_Inn.Runs) FROM Most_Run_Conceded_Per_Inn);
-
-
-
 
 ### 🐦‍🔥(18). Virat Kohli Hit Total Number of Four At M. Chinnaswamy Stadium. 
 
